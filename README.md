@@ -11,3 +11,6 @@ The database should also focus on managing products effectively. It should store
 Managing employee details is another crucial aspect of this system. It should store important information such as SSN, names, roles, salaries, and contact numbers. The system should also record who is supervising whom and which products employees are assigned to, making it easier to manage the workforce and increase accountability.
 
 Lastly, the system must simplify payment processing by linking all payments to their respective orders. It should support various payment methods and ensure every financial transaction is recorded accurately. By combining all these features client management, order processing, product and raw material tracking, employee records, and payment tracking the database system will help the organization run smoothly and efficiently. This solution will provide a centralized platform for managing day-to-day activities, improving productivity, and ensuring transparency in all operations.
+
+ER Diagram for Rubber Industry :
+https://docs.google.com/document/d/14VvZUJd_M1awOyBtspqtpAl2ptvCMRFG8tHnwblFRa4/edit?usp=drive_link
